@@ -1,8 +1,5 @@
 
-/**
- * @overview a program to perform the coffee tin game
- * @author daVinci
- */
+
 public class CoffeeTinGame {
 
     /* constant value for the green bean*/
